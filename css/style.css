@@ -741,8 +741,8 @@ ul.banner-menu-w3layouts li a:hover {
 .social-wthree-icons ul li a.fa.twitter:hover{
 	color:#4099ff;   
 } 
-.social-wthree-icons ul li a.fa.googleplus:hover{
-	color:#d34836;   
+.social-wthree-icons ul li a.fa.linkedin:hover{
+	color:#1985bc;   
 } 
 .social-wthree-icons ul li a.fa.dribbble:hover{
 	color:#ec4a89;   
@@ -777,20 +777,20 @@ ul.banner-menu-w3layouts li a:hover {
 	-ms-box-shadow: inset 0 0 0 2px #4099ff;
 	box-shadow: inset 0 0 0 2px #4099ff;
 } 
-/* google plus */
-.icon-border.googleplus::before {
-	-webkit-box-shadow: inset 0 0 0 48px #d34836;
-	-moz-box-shadow: inset 0 0 0 48px #d34836;
-	-o-box-shadow: inset 0 0 0 48px #d34836;
-	-ms-box-shadow: inset 0 0 0 48px #d34836;
-	box-shadow: inset 0 0 0 48px #d34836;
+/* linkedin plus */
+.icon-border.linkedin::before {
+	-webkit-box-shadow: inset 0 0 0 48px #1985bc;
+	-moz-box-shadow: inset 0 0 0 48px #1985bc;
+	-o-box-shadow: inset 0 0 0 48px #1985bc;
+	-ms-box-shadow: inset 0 0 0 48px #1985bc;
+	box-shadow: inset 0 0 0 48px #1985bc;
 } 
-.icon-border.googleplus:hover::before {
-	-webkit-box-shadow: inset 0 0 0 2px #d34836;
-	-moz-box-shadow: inset 0 0 0 2px #d34836;
-	-o-box-shadow: inset 0 0 0 2px #d34836;
-	-ms-box-shadow: inset 0 0 0 2px #d34836;
-	box-shadow: inset 0 0 0 2px #d34836;
+.icon-border.linkedin:hover::before {
+	-webkit-box-shadow: inset 0 0 0 2px #1985bc;
+	-moz-box-shadow: inset 0 0 0 2px #1985bc;
+	-o-box-shadow: inset 0 0 0 2px #1985bc;
+	-ms-box-shadow: inset 0 0 0 2px #1985bc;
+	box-shadow: inset 0 0 0 2px #1985bc;
 } 
 /* dribbble */
 .icon-border.dribbble::before {
